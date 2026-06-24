@@ -17,3 +17,5 @@ Tiết: 7 - 9
 Phòng: H3.1.2 (H (CS1))
 GV: Nguyễn Trọng Tiến
 ```
+
+![point](./image.png)
